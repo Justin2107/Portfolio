@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          I'm a software engineer specializing in IoT, full-stack development, and embedded systems, focused on building efficient and scalable solutions.
+          I&apos;m a software engineer specializing in IoT, full-stack development, and embedded systems, focused on building efficient and scalable solutions.
           </p>
           <div>
             <Link
